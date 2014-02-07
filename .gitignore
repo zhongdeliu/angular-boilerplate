@@ -1,0 +1,8 @@
+*.sw*
+*~
+*sublime*
+backup/
+build/
+bin/
+node_modules/
+bower_components/
